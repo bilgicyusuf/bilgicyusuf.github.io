@@ -1,1 +1,0 @@
-# bilgicyusuf.github.io
