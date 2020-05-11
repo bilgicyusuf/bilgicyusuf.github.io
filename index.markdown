@@ -6,6 +6,7 @@ layout: page
 
 ---
 
+
 ### FIELDS OF RESEARCH/INTEREST
 Applied, computational and theoretical statistics; Building high performing predictive modeling; Data Science education; Nonparametric and robust modeling and estimate methods; Multi-level modeling; Modeling, estimation, prediction and testing with dependent error structures using robust nonparametric methods; Robustification of machine learning algorithms.
 
