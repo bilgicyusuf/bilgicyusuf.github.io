@@ -17,3 +17,4 @@ Statistical Models: Linear, nonlinear, parametric and nonparametric Regression M
 * Organizing Committee Member at Regional Conferences UPSTAT and Data Contests DataFest
 * Statistical Consultant
 * Math Teacher Trainer in Prob&Statistics
+
