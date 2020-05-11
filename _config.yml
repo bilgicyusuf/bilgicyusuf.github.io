@@ -16,7 +16,7 @@ author:
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-minimal
+theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 read_time: true
