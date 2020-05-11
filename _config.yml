@@ -1,36 +1,39 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Yusuf K. Bilgiç
+logo: /images/bilgic.jpg
+email: bilgic@geneseo.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Assistant Professor at Geneseo University
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "bilgicyusuf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+author:
+  name: Yusuf K. Bilgiç
+  picture: /images/bilgic.jpg
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
+locale: en-US
+read_time: true
+mathjax:
+  enable: true
+
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+
+# Build settings
+markdown: kramdown
+feed:
+  path: atom.xml
+
 plugins:
   - jekyll-feed
 
@@ -53,3 +56,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Footer Links
+footer_links:
+  - title: GitHub
+    url: https://github.com/yekabe
+    icon: fab fa-github-square
+
+copyright: "2020 Yusuf Bilgic"
