@@ -1,21 +1,13 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 
 ---
 
+### Who I am
+I am a statistician, data scientist, and educator.
 
-### FIELDS OF RESEARCH/INTEREST
-Applied, computational and theoretical statistics; Building high performing predictive modeling; Data Science education; Nonparametric and robust modeling and estimate methods; Multi-level modeling; Modeling, estimation, prediction and testing with dependent error structures using robust nonparametric methods; Robustification of machine learning algorithms.
+### Fields of Research Interest
+In brief, my research interests include applied, computational and theoretical statistics, interdisciplinary work with any disciplines, data science, machine learning algorithms and statistics education. I extend robust nonparametric procedures in estimation, prediction and testing for linear and non-linear models theoretically and computationally to various hierarchical/random-eﬀects mod-els. In particular, it includes nonparametric and robust modeling and estimate, prediction and testing in models with dependent error structures, i.e. rank-based statistical modeling of hierarchical/nested designs such as random-eﬀects models. Teaching Probability and Statistics and Data Science for K-18 is my synergic motivation. Currently, I apply and robustify hot machine learning algorithms to various contexts jointly with my students.
 
-### DATA MODELING EXPERIENCE
-Statistical Models: Linear, nonlinear, parametric and nonparametric Regression Modeling, Multivariate Modeling, Mixed Effects Models (Nested, HLM, TVEM, Random Effects), Modeling Fractional Brownian Motion, Modeling extreme events, and others. Machine Learning Models: Industrystandard predictive algorithms such as Artificial Neural Networks, Support Vector Machines, Genetic Algorithm, and Deep Learning; Latent Dirichlet Allocation (LDA); and many others. Statistical Language/Tools: SAS, R, Python, Anaconda Distribution System for Data Science tasks, and others.
-
-### OTHER INTERESTS
-* ASA’s Rochester Chapter Officer and Treasurer
-* Organizing Committee Member at Regional Conferences UPSTAT and Data Contests DataFest
-* Statistical Consultant
-* Math Teacher Trainer in Prob&Statistics
-
+#### Open Source Package
+* [rlme](http://CRAN.R-project.org/package=rlme) - An R Package for Rank-Based Estimation and Prediction in Ran-dom effects Nested Models.
